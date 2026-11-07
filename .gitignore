@@ -1,0 +1,8 @@
+settings.json
+data/
+logs/
+results/
+strategies/
+__pycache__/
+*.pyc
+STOP.txt
